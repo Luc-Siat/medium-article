@@ -13,15 +13,16 @@ body {
 h1, h2 {
   font-family: 'Smooch Sans', sans-serif;
   color: #F49D6E;
-  font-weight: 200;
   letter-spacing: 2px;
+  font-weight: 200;
+
 }
 h1 {
-  font-size: 40px;
+  font-size: 48px;
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 40px;
 }
 
 a {
@@ -63,6 +64,7 @@ div {
 
 .banner h1, .banner h2 {
   color: white;
+  font-weight: 500;
 }
 
 
